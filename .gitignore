@@ -90,5 +90,4 @@ env.js
 env.ts
 
 cdk.context.json
-package.json
 .DS_Store
